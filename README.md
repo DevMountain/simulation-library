@@ -12,7 +12,7 @@ Good luck and work hard!
 
 # Color Palette & Font
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/assets/design-guide.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/assets/design-guide.png" />
 
 <b><a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans">Google Font - Open Sans</a></b>
 <b><a href="https://fonts.google.com/specimen/Alegreya?selection.family=Alegreya:700i">Google Font - Alegreya</a></b>
@@ -22,31 +22,31 @@ Good luck and work hard!
 
 ## Auth View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/login.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/login.png" />
 
 ## Browsing View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/browse.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/browse.png" />
 
 ## Book Details View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/details.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/details.png" />
 
 ## Edit Book View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/edit.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/edit.png" />
 
 ## Add Book View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/add.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/add.png" />
 
 ## Cart View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/cart.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/cart.png" />
 
 ## Bookshelf View
 
-<img src="https://github.com/DevMountain/simulation-2/blob/master/views/shelf.png" />
+<img src="https://github.com/Be-The-Bert/library-simulation/blob/master/views/shelf.png" />
 
 # Technical Requirements - Front-end
 
