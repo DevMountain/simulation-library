@@ -70,6 +70,7 @@ Good luck and work hard!
 * User is able to add book to cart from here
 * User is able to navigate to Edit Book View 
 * User is able to delete a book from the database
+  * This should redirect the user back to the Browsing View
 * User is able to navigate to previous view
 * User should be redirected to the Browsing View after adding the book to the cart
 
