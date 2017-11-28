@@ -116,15 +116,15 @@ Good luck and work hard!
 * POST - /api/auth/login - Sets the user information on the session.
   * On success return a status of 200 and the user object.
   * A user object should have the following properties:
-        * id - This is the UserId you are using for your database.
-        * username - This is the username associated with the UserId.
+    * id - This is the UserId you are using for your database.
+    * username - This is the username associated with the UserId.
   * The database should store the password, but you should not send this information to the front end as part of the user object
   * On failure return a status of 500.
 * POST - /api/auth/register - Registers a user to the database. Sets the user information on the session.
   * On success return a status of 200 and the user object.
   * A user object should have the following properties:
-        * id - This is the UserId you are using for your database.
-        * username - This is the username associated with the UserId.
+    * id - This is the UserId you are using for your database.
+    * username - This is the username associated with the UserId.
   * The database should store the password, but you should not send this information to the front end as part of the user object
   * On failure return a status of 500.
 * POST - /api/auth/logout - Destroys the session. Sends a status of 200.
