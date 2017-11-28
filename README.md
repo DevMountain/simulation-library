@@ -16,7 +16,7 @@ Good luck and work hard!
 <br/>
 <b><a href="https://fonts.google.com/specimen/Alegreya?selection.family=Alegreya:700i">Google Font - Alegreya</a></b>
 
-#### The icons are included in the assets folder of this repository
+### The icons are included in the assets folder of this repository
 
 
 # Application Design
