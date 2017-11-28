@@ -4,9 +4,7 @@
 
 This project is designed to replicate what you might receive on the job. There won't be any guided instruction on what you'll need to do. We will only provide you with design specifications and technical requirements. Your mentors have also been asked to provide only minimal guidance. They can point you in the right direction, but cannot help you code. This project is a chance for you to combine and showcase the skills you've learned so far.
 
-With this specification/requirement only structure, we believe this project will showcase what you can do as an individual and how you can work with a team at this point of the program. Because of this, we feel this project will be worth putting in your portfolio.
-
-After completing the project, host your project on https://zeit.co/ and provide your mentor with the link.
+With this specification/requirement only structure, we believe this project will showcase what you can do at this point of the program. Because of this, we feel this project will be worth putting in your portfolio.
 
 Good luck and work hard!
 
@@ -15,7 +13,10 @@ Good luck and work hard!
 <img src="https://github.com/Be-The-Bert/library-simulation/blob/master/assets/design-guide.png" />
 
 <b><a href="https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans">Google Font - Open Sans</a></b>
+<br/>
 <b><a href="https://fonts.google.com/specimen/Alegreya?selection.family=Alegreya:700i">Google Font - Alegreya</a></b>
+
+#### The icons are included in the assets folder of this repository
 
 
 # Application Design
@@ -128,12 +129,6 @@ Good luck and work hard!
   * On failure return a status of 500.
 * POST - /api/auth/logout - Destroys the session. Sends a status of 200.
 
-### Book Endpoints
-
-* GET - /api/books - Returns all books from database. Filters all books using queries
-* GET - /api/books/:id - Retrieves book based on a matched param 
-* POST - /api/books - Creates a new book. 
-* DELETE - /api/books/:id - Deletes a book. - Retrieves param based on a matched param
-* PUT - /api/books/:id - Updates individual Book Details - Retrieves param based on a matched param
+#### NOTE: This is in no way a secure or effective way of storing user credentials. This is required for you to demonstrate your knowledge of data transfer and correspondence between the user and your server using sessions. Do not ever rely on this method in anything bound for production.
 
 
